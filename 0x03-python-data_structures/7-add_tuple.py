@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 """ adds two tuples
 """
+
+
 def add_tuple(tuple_a=(), tuple_b=()):
     """ this function adds 2 tuples"""
     if len(tuple_a) > 2:
